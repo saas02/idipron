@@ -1,3 +1,10 @@
+El usuario para ingresar al aplicativo es
+
+saas02@gmail.com
+pass: 123456
+
+Al crear nuevos usuarios toman por defecto como contraseña el correo electronico
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
